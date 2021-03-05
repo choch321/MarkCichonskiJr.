@@ -37,6 +37,9 @@
 - 💬 Talk to me about Getting into data science 
 
 
+
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/MarkCichonski/MarkCichonski)
 
 
