@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning White Hat Hacking 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on hiring a junior data scientist
 
 - 💬 Talk to me about Getting into data science 
 
