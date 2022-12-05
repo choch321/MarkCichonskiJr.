@@ -28,11 +28,11 @@
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🔭 I’m currently working on Process Mapping, Documentation and Workflow
+- 🔭 I’m currently working on Data Catalog, Data Quality and Data Governance
 
-- 🌱 I’m currently learning White Hat Hacking 
+- 🌱 I’m currently learning Advanced Data Governance 
 
-- 👯 I’m looking to collaborate on hiring a junior data scientist
+- 👯 I’m looking to continue my Data Management Startup
 
 - 💬 Talk to me about Getting into data science 
 
